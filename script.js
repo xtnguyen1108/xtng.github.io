@@ -34,17 +34,7 @@ document.addEventListener("DOMContentLoaded", () => {
         "small-gif7",
         "small-gif8",
         "small-gif9",
-        "small-gif10",
-        "small-gif11",
-        "small-gif12",
-        "small-gif13",
-        "small-gif14",
-        "small-gif15",
-        "small-gif16",
-        "small-gif17",
-        "small-gif18",
-        "small-gif19",
-        "small-gif20"
+        "small-gif10"
     ];
 
     // Loop through each small gif class and set random positions
